@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app = "http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/isOne"
+        android:icon="@mipmap/toolbar_one"
+        android:title="one"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/isTwo"
+        android:icon="@mipmap/toolbar_two"
+        android:title="two"
+        app:showAsAction="always" />
+
+    <!--<item-->
+        <!--android:id="@+id/isThree"-->
+        <!--android:icon="@drawable/three"-->
+        <!--android:title="three"-->
+        <!--app:showAsAction="always" />-->
+</menu>

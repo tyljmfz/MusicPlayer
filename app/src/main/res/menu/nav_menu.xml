@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_one"
+            android:icon="@mipmap/beauty_list"
+            android:title="音乐播放器"/>
+        <item
+            android:id="@+id/nav_two"
+            android:icon="@mipmap/heart"
+            android:title="我喜欢"/>
+    </group>
+</menu>
